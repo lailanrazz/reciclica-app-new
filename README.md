@@ -1,2 +1,2 @@
-# reciclica-app-new
-recycling Application
+# reciclica-app
+Aplikasi Reciclica
